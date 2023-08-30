@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "",
+    "smsApiKey": "",
+    "db": "mongodb://localhost/sta"
+}

@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey": "sta_jwtPrivateKey",
+    "smsApiKey": "smsApiKey"
+
+}
