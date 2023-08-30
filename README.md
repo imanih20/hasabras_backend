@@ -1,1 +1,1 @@
-store sale manger
+backend for hesabras applicatio
